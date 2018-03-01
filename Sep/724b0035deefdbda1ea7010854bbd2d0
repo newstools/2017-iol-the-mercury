@@ -1,0 +1,93 @@
+Cape Town - A crash involving a container truck and at least one passenger vehicle has forced the closure of the N1 FW de Klerk Boulevard at Blackriver Parkway near Salt River, Cape Town on Wednesday morning. 
+
+It appears the truck overturned, with its massive shipping container falling off its trailer onto a passenger vehicle. 
+
+
+
+
+  (function() {
+    initPlayer('.player-1519392494766', {
+      audioSrc: 'https://inm-baobab-prod-eu-west-1.s3.amazonaws.com/public/inm/media/2017/09/20/iol/332/WhatsApp-Audio-2017-09-20-at-09.57.23.ogg',
+      imageSrc: '//cdn.mojoreporter.com/logos/iolLogo200x200.png',
+      title: '',
+      description: '',
+      date: ''
+}, {
+      on: true,
+      lineColor: '#247fa0'
+    });
+  })();
+Cape Town Traffic Spokesperson Maxine Bezuidenhout
+The crash caused major delays as inbound traffic was diverted via Koeberg Interchange through Maitland, Milnerton and Paarden Island.
+
+
+
+
+
+
+
+
+
+
+
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-17710838-1', 'auto');
+
+
+
+
+
+
+  
+  
+  
+    To view this video please enable JavaScript, and consider upgrading to a web browser that
+    supports HTML5 video
+  
+Play VideoPlayMuteCurrent Time 0:00/Duration Time 0:00Loaded: 0%Progress: 0%Stream TypeLIVERemaining Time -0:00 Playback Rate1ChaptersChaptersDescriptionsdescriptions off, selectedCaptionsundefined settings, opens undefined settings dialogcaptions and subtitles off, selectedAudio TrackFullscreenEmbedThis is a modal window.No compatible source was found for this media.Beginning of dialog window. Escape will cancel and close the window.TextColorWhiteBlackRedGreenBlueYellowMagentaCyanTransparencyOpaqueSemi-TransparentBackgroundColorBlackWhiteRedGreenBlueYellowMagentaCyanTransparencyOpaqueSemi-TransparentTransparentWindowColorBlackWhiteRedGreenBlueYellowMagentaCyanTransparencyTransparentSemi-TransparentOpaqueFont Size50%75%100%125%150%175%200%300%400%Text Edge StyleNoneRaisedDepressedUniformDropshadowFont FamilyProportional Sans-SerifMonospace Sans-SerifProportional SerifMonospace SerifCasualScriptSmall CapsReset restore all settings to the default valuesDoneClose Modal DialogEnd of dialog window.Embed codeVideo Advertisement
+
+videojs('player-1519384745226', {}, function(){
+this.embed({
+  embeddable: true,
+  location: '//video.iol.co.za/video/1/buildEnvelope/c291cmNlPUlPTCZ2aWRlb1VybD1odHRwczovL2lubS1iYW9iYWItcHJvZC1ldS13ZXN0LTEuczMuYW1hem9uYXdzLmNvbS9wdWJsaWMvaW5tL21lZGlhLzIwMTcvMDkvMjAvaW9sLzUxNS9XaGF0c0FwcC1WaWRlby0yMDE3LTA5LTIwLWF0LTEwLjI4LjAyLm1wNCZzdGFuZEFsb25lPXRydWU='
+});
+this.watermark({
+  file: '//imigino-cdn.iol.co.za/logos/inmLogo.png',
+  xpos: 0,
+  ypos: 0,
+  xrepeat: 0,
+  opacity: 0.75
+});
+this.ima({
+  id: 'player-1519384745226',
+  adLabel: 'Video Advertisement',
+  adTagUrl: '//pubads.g.doubleclick.net/gampad/ads?sz=400x300|640x480&iu=/116466607/IOL/Video&ciu_szs=300x250,300x600,728x90&impl=s&gdfp_req=1&env=vp&output=xml_vast2&unviewed_position_start=1'
+});
+var that = this;
+this.one('click', function(){
+  that.ima.initializeAdDisplayContainer();
+  that.ima.requestAds();
+  that.play();
+});
+this.ga({
+  'eventsToTrack': ['start', 'end', 'play', 'pause', 'fullscreen', 'error']
+});
+this.socialShare({
+  facebook: { },
+  twitter: { }
+});
+});
+
+
+Video: Henk Kruger/ANA Pictures
+It was unclear whether or not the crash was fatal. The truck driver sustained serious injuries.
+The fate of the occupants of the passenger vehicle was not immediately clear.
+Picture: Henk Kruger/ANA PicturesPicture: Supplied/City of Cape TownPicture: Supplied/City of Cape TownPicture: SuppliedPicture: SuppliedPicture: SuppliedPicture: Supplied
+Read the update on this story here.
+
+Cape Argus
